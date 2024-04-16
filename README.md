@@ -1,4 +1,6 @@
-![profile-pic](https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/GithubProfilePic.png)
+<p align="center">
+  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/GithubProfilePic.png" alt="profile-pic" width="800" height="450">
+</p>
 <h1 align="center">Assalam o Alaikum 👋, I'm Arsal Jawed</h1>
 <h3 align="center">I am a Software Engineer, Web Developer, and ML Engineer</h3>
 
