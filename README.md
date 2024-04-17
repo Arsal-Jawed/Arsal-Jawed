@@ -4,6 +4,8 @@
 <h1 align="center">Assalam o Alaikum 👋, I'm Arsal Jawed</h1>
 <h3 align="center">I am a Software Engineer, Web Developer, and ML Engineer</h3>
 
+<img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/working_on_laptop_and_moving_head_seed255700861151583.gif" align="right" width="400px" height="270px">
+
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
 - 💬 Ask me about **React, Node, JavaFX, MySql, Python**
