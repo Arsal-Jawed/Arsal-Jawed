@@ -28,3 +28,6 @@
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/ArexMeetsLogo.png" style="display:inline-block;">
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/logo.png" width="150" height="100" style="display:inline-block;">
 </p>
+<p align="center">
+  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/PostVerseLogo.png" style="display:inline-block;">
+</p>
