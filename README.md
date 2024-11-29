@@ -24,8 +24,8 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/></a>
  </p>
 
-<br><br>
-<h2 style="text-align:center; margin-top: 20px;">My Projects:</h2>
+<br>
+<h2 style="text-align:center;">My Projects:</h2>
 <p align="center">
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/ArexChatLogo.png" style="display:inline-block;">
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/ArexMeetsLogo.png" style="display:inline-block;">
