@@ -34,10 +34,10 @@
 <p align="center">
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/PostVerseLogo.png" width="250" height="150" style="display:inline-block;">
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/MatrimonialLogo.png" width="250" height="150" style="display:inline-block;">
-  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/LifeFinderLogo.png" width="150" height="150" style="display:inline-block;">
+  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/LaylaAILogo.png" width="150" height="150" style="display:inline-block;">
 </p>
 <p align="center">
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/KhelRounderLogo.png" width="250" height="150" style="display:inline-block;">
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/CallSiddLogo.png" width="150" height="150" style="display:inline-block;">
-  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/LaylaAILogo.png" width="150" height="250" style="display:inline-block;">
+  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/LifeFinderLogo.png" width="150" height="150" style="display:inline-block;">
 </p>
