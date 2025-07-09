@@ -37,9 +37,9 @@
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/LaylaAILogo.png" width="150" height="150" style="display:inline-block;">
 </p>
 <p align="center">
-  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/KhelRounderLogo.png" width="250" height="150" style="display:inline-block;">
-  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/CallSiddLogo.png" width="150" height="150" style="display:inline-block;">
+  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/KhelRounderLogo.png" width="200" height="120" style="display:inline-block;">
+  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/CallSiddLogo.png" width="110" height="110" style="display:inline-block;">
   <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/LifeFinderBlueLogo.png" width="150" height="150" style="display:inline-block;">
-  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/NexLinkLogo.png" width="150" height="150" style="display:inline-block;">
-  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/TriadWarefareLogo.png" width="150" height="150" style="display:inline-block;">
+  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/NexLinkLogo.png" width="170" height="170" style="display:inline-block;">
+  <img src="https://github.com/Arsal-Jawed/Arsal-Jawed/blob/main/TriadWarefareLogo.png" width="180" height="180" style="display:inline-block;">
 </p>
